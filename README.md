@@ -5,7 +5,7 @@ Flutter Developer focused 100% on mobile, building high-performance cross-platfo
 - 💼 Flutter Developer at **Hiberus S.L.** (Zaragoza, Spain) since March 2024
 - 🔄 Led the migration of the **BH Gymloop** app from Xamarin to Flutter
 - 🔭 Open to Flutter projects, freelance work and full-time opportunities
-- 🌐 Portfolio: [pablo2010garcia.github.io](https://pablo2010garcia.github.io)
+- 🌐 Portfolio: [pablomiguelgarcia.github.io](https://pablomiguelgarcia.github.io/)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/pablo-miguel-garcia/) or at pablo2010garcia@gmail.com
 
 #### 🛠️ Tech stack
